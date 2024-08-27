@@ -1,0 +1,1 @@
+// Defines Thought model and Reaction

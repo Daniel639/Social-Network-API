@@ -1,0 +1,1 @@
+//  logic for thought-related operationsL
