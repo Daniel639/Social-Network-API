@@ -53,7 +53,9 @@ Use an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://w
 
 ## Demo
 
-![API Routes Demo](./Gif/Demo.gif)
+![API Routes Demo](./Gif/Demo1.gif)
+![API Routes Demo](./Gif/Demo2.gif)
+
 
 The demo above shows the following operations:
 
